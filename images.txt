@@ -1,1 +1,1 @@
-nginx
+tablee/code-push-server:v0.5.2
